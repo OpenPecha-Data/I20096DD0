@@ -1,0 +1,16 @@
+id: I20096DD0
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:06:43.067173
+last_modified: 2023-02-08 15:06:43.067323
+source_metadata:
+  title: 'BA: Gaṇḍavyūhasūtra'
+  language: bo
+bases:
+  7A44:
+    base_file: 7A44.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

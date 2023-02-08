@@ -1,0 +1,19 @@
+id: b10ad4dc4c2a4b58b122c35a60d8fe93
+annotation_type: index
+revision: '00001'
+annotations:
+  5420ab0528814064be7c31d514593e99:
+    base: 7A44.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 53
+    - title: Nidāna
+      span:
+        start: 54
+        end: 78748
+    - title: Samantabhadra
+      span:
+        start: 78749
+        end: 89642
